@@ -1,0 +1,5 @@
+Summary for today:
+-Learned about the basics interfacing between a flexsim model and rl model
+-ran the corresponding python files, seeing how the flexim and rl models interact
+-learned about how to see metrics of training on tensorboard
+-Completed the guide on running HelloWorld
